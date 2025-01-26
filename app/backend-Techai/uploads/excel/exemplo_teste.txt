@@ -1,0 +1,4 @@
+Nome	Idade	Profissão
+Alice	25	Engenheira
+Bob	30	Médico
+Charlie	35	Professor

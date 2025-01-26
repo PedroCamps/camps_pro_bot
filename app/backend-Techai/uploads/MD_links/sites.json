@@ -1,0 +1,43 @@
+{
+    "docs.getomni.ai": {
+        "site_name": "docs.getomni.ai",
+        "file_path": "uploads/MD_links/docs.getomni.ai/docs.getomni.ai.md"
+    },
+    "example.com": {
+        "site_name": "example.com",
+        "file_path": "uploads/MD_links/example.com/example.com.md"
+    },
+    "ocrmypdf.readthedocs.io": {
+        "site_name": "ocrmypdf.readthedocs.io",
+        "file_path": "uploads/MD_links/ocrmypdf.readthedocs.io/ocrmypdf.readthedocs.io.md",
+        "last_updated": "2025-01-19 20:36:42"
+    },
+    "whitepaper.cronos.org": {
+        "site_name": "whitepaper.cronos.org",
+        "file_path": "uploads/MD_links/whitepaper.cronos.org/whitepaper.cronos.org.md"
+    },
+    "portalgentedesucesso.lg.com.br": {
+        "site_name": "portalgentedesucesso.lg.com.br",
+        "file_path": "uploads/MD_links/portalgentedesucesso.lg.com.br/portalgentedesucesso.lg.com.br.md"
+    },
+    "docs.crawl4ai.com": {
+        "site_name": "docs.crawl4ai.com",
+        "file_path": "uploads/MD_links/docs.crawl4ai.com/docs.crawl4ai.com.md"
+    },
+    "pypi.org": {
+        "site_name": "pypi.org",
+        "file_path": "uploads/MD_links/pypi.org/pypi.org.md"
+    },
+    "github.com": {
+        "site_name": "github.com",
+        "file_path": "uploads/MD_links/github.com/github.com.md"
+    },
+    "tesseract-ocr.github.io": {
+        "site_name": "tesseract-ocr.github.io",
+        "file_path": "uploads/MD_links/tesseract-ocr.github.io/tesseract-ocr.github.io.md"
+    },
+    "ds4sd.github.io": {
+        "site_name": "ds4sd.github.io",
+        "file_path": "uploads/MD_links/ds4sd.github.io/ds4sd.github.io.md"
+    }
+}

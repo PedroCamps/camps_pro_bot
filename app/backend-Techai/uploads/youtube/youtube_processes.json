@@ -1,0 +1,67 @@
+{
+    "videos": [
+        {
+            "title": "2024 ML Software Setup Guide",
+            "language": "en",
+            "url": "https://www.youtube.com/watch?v=ayWcs5FbxGY",
+            "audio_path": "uploads/youtube/.wav/2024 ML Software Setup Guide.wav",
+            "text_path": "uploads/youtube/.txt/2024 ML Software Setup Guide.txt"
+        },
+        {
+            "title": "COMO GANHAR O RESPEITO DOS PAIS",
+            "language": "pt",
+            "url": "https://www.youtube.com/watch?v=5DtXOblv-HY",
+            "audio_path": "uploads/youtube/.wav/COMO GANHAR O RESPEITO DOS PAIS.wav",
+            "text_path": "uploads/youtube/.txt/COMO GANHAR O RESPEITO DOS PAIS.txt"
+        },
+        {
+            "title": "AI ",
+            "language": "en",
+            "url": "https://www.youtube.com/watch?v=QXK4rm77rM0",
+            "audio_path": "uploads/youtube/.wav/AI .wav",
+            "text_path": "uploads/youtube/.txt/AI .txt"
+        },
+        {
+            "title": "Turn ANY Website into LLM Knowledge in SECONDS",
+            "language": "en",
+            "url": "https://www.youtube.com/watch?v=JWfNLF_g_V0&t=1s",
+            "audio_path": "uploads/youtube/.wav/Turn ANY Website into LLM Knowledge in SECONDS.wav",
+            "text_path": "uploads/youtube/.txt/Turn ANY Website into LLM Knowledge in SECONDS.txt"
+        },
+        {
+            "title": "future of rag",
+            "language": "en",
+            "url": "https://www.youtube.com/watch?v=_R-ff4ZMLC8&t=434s",
+            "audio_path": "uploads/youtube/.wav/future of rag.wav",
+            "text_path": "uploads/youtube/.txt/future of rag.txt"
+        },
+        {
+            "title": "O que Trump realmente quer fazer neste segundo mandato",
+            "language": "pt",
+            "url": "https://www.youtube.com/watch?v=W9HkpG5qbZo&t=282s",
+            "audio_path": "uploads/youtube/.wav/O que Trump realmente quer fazer neste segundo mandato.wav",
+            "text_path": "uploads/youtube/.txt/O que Trump realmente quer fazer neste segundo mandato.txt"
+        },
+        {
+            "title": "TRUMP lança MEMECOIN e especulação dispara",
+            "language": "pt",
+            "url": "https://www.youtube.com/watch?v=nsuU2WLFtOE",
+            "audio_path": "uploads/youtube/.wav/TRUMP lança MEMECOIN e especulação dispara.wav",
+            "text_path": "uploads/youtube/.txt/TRUMP lança MEMECOIN e especulação dispara.txt"
+        },
+        {
+            "title": "Trump memecoin: sinal de topo ou novo ciclo das criptos?",
+            "language": "pt",
+            "url": "https://www.youtube.com/watch?v=wlv1qmx9mn0",
+            "audio_path": "uploads/youtube/.wav/Trump memecoin: sinal de topo ou novo ciclo das criptos?.wav",
+            "text_path": "uploads/youtube/.txt/Trump memecoin: sinal de topo ou novo ciclo das criptos?.txt"
+        },
+        {
+            "title": "SOBRE TRUMP E SUA CRIPTOMOEDA ",
+            "language": "pt",
+            "url": "https://www.youtube.com/watch?v=pbZ4wNlGioA&t=596s",
+            "audio_path": "uploads/youtube/.wav/SOBRE TRUMP E SUA CRIPTOMOEDA .wav",
+            "text_path": "uploads/youtube/.txt/SOBRE TRUMP E SUA CRIPTOMOEDA .txt"
+        }
+    ]
+}
